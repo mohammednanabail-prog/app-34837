@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">معرضي</string>
+    <string name="photos_tab">الصور</string>
+    <string name="albums_tab">الألبومات</string>
+    <string name="favorites_tab">المفضلة</string>
+    <string name="trash_tab">سلة المحذوفات</string>
+    <string name="search_hint">بحث بالاسم، الألبوم، التاريخ...</string>
+    <string name="search">بحث</string>
+    <string name="all_media">الكل</string>
+    <string name="photos_only">الصور</string>
+    <string name="videos_only">الفيديوهات</string>
+    <string name="today">اليوم</string>
+    <string name="yesterday">أمس</string>
+    <string name="permission_title">صلاحية الوصول إلى الصور والفيديوهات</string>
+    <string name="permission_desc">يحتاج تطبيق «معرضي» إلى الوصول لملفات الوسائط على جهازك لعرض صورك وفيديوهاتك محلياً وبكل خصوصية وأمان.</string>
+    <string name="grant_permission">منح الإذن</string>
+    <string name="open_photo_picker">اختيار وسائط محددة</string>
+    <string name="empty_gallery_title">لا توجد صور أو فيديوهات</string>
+    <string name="empty_gallery_desc">التقط صوراً جديدة أو أضف وسائط لتظهر هنا في المعرض.</string>
+    <string name="empty_favorites_title">لا توجد عناصر في المفضلة</string>
+    <string name="empty_favorites_desc">اضغط على أيقونة النجمة ⭐ على أي صورة أو فيديو لإضافتها إلى المفضلة.</string>
+    <string name="empty_trash_title">سلة المحذوفات فارغة</string>
+    <string name="empty_trash_desc">الصور والفيديوهات المحذوفة ستظهر هنا لتمكنك من استعادتها.</string>
+    <string name="share">مشاركة</string>
+    <string name="edit">تعديل</string>
+    <string name="favorite">المفضلة</string>
+    <string name="delete">حذف</string>
+    <string name="info">معلومات</string>
+    <string name="restore">استعادة</string>
+    <string name="delete_permanently">حذف نهائي</string>
+    <string name="empty_trash_button">إفراغ السلة</string>
+    <string name="confirm_delete_title">نقل إلى سلة المحذوفات</string>
+    <string name="confirm_delete_desc">هل تريد نقل هذا العنصر إلى سلة المحذوفات؟</string>
+    <string name="confirm_permanent_delete_title">حذف نهائي</string>
+    <string name="confirm_permanent_delete_desc">لا يمكن التراجع عن هذا الإجراء. هل أنت متأكد من الحذف النهائي؟</string>
+    <string name="confirm_empty_trash_title">إفراغ سلة المحذوفات</string>
+    <string name="confirm_empty_trash_desc">سيتم حذف جميع العناصر الموجودة في السلة نهائياً.</string>
+    <string name="cancel">إلغاء</string>
+    <string name="confirm">تأكيد</string>
+    <string name="details_title">تفاصيل الملف</string>
+    <string name="file_name">اسم الملف</string>
+    <string name="date_taken">تاريخ الالتقاط</string>
+    <string name="file_size">حجم الملف</string>
+    <string name="resolution">الأبعاد</string>
+    <string name="mime_type">النوع</string>
+    <string name="folder_album">المجلد / الألبوم</string>
+    <string name="camera_info">معلومات الكاميرا</string>
+    <string name="iso_shutter">فتحة العدسة و ISO</string>
+    <string name="location_info">الموقع</string>
+    <string name="no_exif">لا توجد بيانات EXIF إضافية</string>
+    
+    <!-- Editor Strings -->
+    <string name="editor_title">محرر الصور</string>
+    <string name="save">حفظ</string>
+    <string name="save_as_new">حفظ كنسخة جديدة</string>
+    <string name="replace_original">استبدال الأصل</string>
+    <string name="crop_rotate">قص وتدوير</string>
+    <string name="adjust">ضبط</string>
+    <string name="filters">فلاتر</string>
+    <string name="draw">رسم</string>
+    <string name="text_tool">نص</string>
+    <string name="privacy_redact">إخفاء</string>
+    <string name="overlay_image">إضافة صورة</string>
+    <string name="auto_enhance">تحسين تلقائي</string>
+    <string name="undo">تراجع</string>
+    <string name="redo">إعادة</string>
+    <string name="brightness">السطوع</string>
+    <string name="contrast">التباين</string>
+    <string name="saturation">التشبع</string>
+    <string name="temperature">الحرارة</string>
+    <string name="tint">الصبغة (Tint)</string>
+    <string name="highlights">الإضاءات</string>
+    <string name="shadows">الظلال</string>
+    <string name="whites">الأبيض</string>
+    <string name="blacks">الأسود</string>
+    <string name="sharpness">الحدة</string>
+    <string name="vignette">تعتيم الأطراف</string>
+    <string name="blur_tool">الضبابية</string>
+    <string name="rotate_left">تدوير لليسار</string>
+    <string name="rotate_right">تدوير لليمين</string>
+    <string name="flip_horizontal">قلب أفقي</string>
+    <string name="flip_vertical">قلب عمودي</string>
+    <string name="brush_size">حجم الفرشاة</string>
+    <string name="opacity">الشفافية</string>
+    <string name="eraser">ممحاة</string>
+    <string name="pen">قلم</string>
+    <string name="pixelate">بكسلة (Pixelate)</string>
+    <string name="enter_text">اكتب النص هنا...</string>
+    <string name="text_size">حجم النص</string>
+    <string name="text_bg">خلفية النص</string>
+    <string name="saved_successfully">تم حفظ الصورة بنجاح</string>
+    <string name="save_failed">فشل حفظ الصورة</string>
+    <string name="saving">جاري المعالجة والحفظ...</string>
+    <string name="generate_demo_media">توليد صور تجريبية للاختبار</string>
+    <string name="demo_media_added">تمت إضافة وسائط تجريبية للمعرض</string>
+    <string name="theme_setting">المظهر</string>
+    <string name="theme_system">تلقائي (حسب النظام)</string>
+    <string name="theme_light">فاتح</string>
+    <string name="theme_dark">داكن</string>
+    <string name="items_count">%1$d عنصر</string>
+
+    <!-- Beauty & Face Retouching Strings -->
+    <string name="beauty_retouch">تجميل</string>
+    <string name="skin_smooth">تنعيم وتصفية البشرة</string>
+    <string name="face_brighten">إشراق وتفتيح الوجه</string>
+    <string name="warm_glow">نضارة البشرة والوجه</string>
+    <string name="eye_clarity">صفاء ونقاء الملامح</string>
+
+    <!-- Multi-Selection Strings -->
+    <string name="select_all">تحديد الكل</string>
+    <string name="clear_selection">إلغاء التحديد</string>
+    <string name="selected_count">تم تحديد %1$d</string>
+    <string name="batch_details">تفاصيل المجموعة</string>
+    <string name="move_to_vault_batch">نقل للخزنة 🔒</string>
+
+    <!-- Secret Vault Strings -->
+    <string name="secret_vault">الخزنة السرية</string>
+    <string name="vault_locked_desc">أدخل رمز PIN الخاص بك لفتح الخزنة وعرض العناصر المحمية</string>
+    <string name="vault_pin_prompt">رمز PIN السري</string>
+    <string name="unlock">فتح</string>
+    <string name="lock">قفل</string>
+    <string name="move_to_vault">نقل إلى الخزنة السرية</string>
+    <string name="restore_from_vault">استعادة إلى المعرض</string>
+    <string name="change_pin">تغيير رمز PIN</string>
+    <string name="vault_empty_title">الخزنة فارغة</string>
+    <string name="vault_empty_desc">حدد أي صور أو فيديوهات واضغط «نقل للخزنة» لإخفائها وتأمينها برمز حماية.</string>
+    <string name="pin_incorrect">رمز PIN غير صحيح</string>
+
+    <!-- Duplicate Media Strings -->
+    <string name="duplicate_photos">الصور المكررة</string>
+    <string name="duplicates_folder_desc">كشف الصور والمقاطع المتطابقة والمكررة لتوفير المساحة</string>
+    <string name="clean_all_duplicates">تنظيف جميع النسخ المكررة</string>
+    <string name="keep_one_delete_copies">الاحتفاظ بنسخة وحذف المكررات</string>
+    <string name="no_duplicates_title">لا توجد صور مكررة</string>
+    <string name="no_duplicates_desc">مساحة جهازك منظمة ولا توجد نسخ مكررة حالياً.</string>
+
+    <!-- Smart Categories Strings -->
+    <string name="smart_categories">التصنيفات الذكية</string>
+    <string name="category_all">الكل</string>
+    <string name="category_people">أشخاص ووجوه</string>
+    <string name="category_documents">مستندات ووثائق</string>
+    <string name="category_animals">حيوانات أليفة</string>
+    <string name="category_nature">مناظر طبيعية</string>
+    <string name="category_objects">جمادات ومقتنيات</string>
+</resources>

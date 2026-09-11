@@ -1,0 +1,6 @@
+{
+  "name": "معرضي",
+  "description": "تطبيق معرض صور وفيديوهات أصلي وسريع مع محرر صور متكامل واحترافي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
